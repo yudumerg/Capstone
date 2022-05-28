@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8B03DBA3-FF1B-493D-BBE0-0BF61A7C239B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2A83262-3677-4E73-9282-F349D552990F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DenemeProject/DetayVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "DetayVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D2A83262-3677-4E73-9282-F349D552990F - b6134ef932d5e1be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DenemeProject.DetayVC.yemekFiyatLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "DenemeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yudumergun/Desktop/DenemeProject/DenemeProject/DetayVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "D2A83262-3677-4E73-9282-F349D552990F - 75276c2bb0431daa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DenemeProject.DetayVC.yemekFiyatLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "DenemeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yudumergun/Desktop/DenemeProject/DenemeProject/DetayVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "D2A83262-3677-4E73-9282-F349D552990F - c792fa62ddbb46bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DenemeProject.DetayVC.yemekFiyatLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "DenemeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yudumergun/Desktop/DenemeProject/DenemeProject/DetayVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "D2A83262-3677-4E73-9282-F349D552990F - ef053e247c4b08b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DenemeProject.DetayVC.yemekFiyatLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "DenemeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yudumergun/Desktop/DenemeProject/DenemeProject/DetayVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "D2A83262-3677-4E73-9282-F349D552990F - eecd333c12326efc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DenemeProject.DetayVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; DenemeProject.DetayVC"
+                  moduleName = "DenemeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yudumergun/Desktop/DenemeProject/DenemeProject/DetayVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "D2A83262-3677-4E73-9282-F349D552990F - 123adfcbefead18a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DenemeProject.DetayVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;DenemeProject.DetayVC&gt;"
+                  moduleName = "DenemeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yudumergun/Desktop/DenemeProject/DenemeProject/DetayVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A761FFCC-2BBE-4751-B87B-F488F57E7E73"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DenemeProject/anasayfa-module/view/AnasayfaVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4095F017-E75C-44C2-8136-F9A09805C82F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DenemeProject/anasayfa-module/interactor/AnasayfaInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "tumYemekleriAl()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4095F017-E75C-44C2-8136-F9A09805C82F - 914724d343dfe5d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in DenemeProject.AnasayfaInteractor.tumYemekleriAl() -&gt; ()"
+                  moduleName = "DenemeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yudumergun/Desktop/DenemeProject/DenemeProject/anasayfa-module/interactor/AnasayfaInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "4095F017-E75C-44C2-8136-F9A09805C82F - 914724d343dfe5d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in DenemeProject.AnasayfaInteractor.tumYemekleriAl() -&gt; ()"
+                  moduleName = "DenemeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yudumergun/Desktop/DenemeProject/DenemeProject/anasayfa-module/interactor/AnasayfaInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E947149C-4BEF-4554-981E-1147B00284E7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DenemeProject/anasayfa-module/interactor/AnasayfaInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "tumYemekleriAl()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E947149C-4BEF-4554-981E-1147B00284E7 - 914724d343dfe53b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in DenemeProject.AnasayfaInteractor.tumYemekleriAl() -&gt; ()"
+                  moduleName = "DenemeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yudumergun/Desktop/DenemeProject/DenemeProject/anasayfa-module/interactor/AnasayfaInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "E947149C-4BEF-4554-981E-1147B00284E7 - 914724d343dfe53b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in DenemeProject.AnasayfaInteractor.tumYemekleriAl() -&gt; ()"
+                  moduleName = "DenemeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yudumergun/Desktop/DenemeProject/DenemeProject/anasayfa-module/interactor/AnasayfaInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "440">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD8A6CD8-F130-4C46-A423-2B56D22624DE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DenemeProject/anasayfa-module/interactor/AnasayfaInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "tumYemekleriAl()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B59AE7E-A462-47A7-9F83-072C193471FD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DenemeProject/anasayfa-module/interactor/AnasayfaInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "tumYemekleriAl()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C609BBBA-06A6-4EAC-8687-A6E76425CB8A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DenemeProject/anasayfa-module/interactor/AnasayfaInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "tumYemekleriAl()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03E840D7-61F4-476E-B296-42E811A717F2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DenemeProject/anasayfa-module/interactor/AnasayfaInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "tumYemekleriAl()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DACEDFC-7898-4841-9727-86279538C657"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DenemeProject/anasayfa-module/interactor/AnasayfaInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "tumYemekleriAl()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EABEA959-ACFD-4144-BE19-8BF54290CD14"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DenemeProject/anasayfa-module/interactor/AnasayfaInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "tumYemekleriAl()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89DC3846-C41B-42B3-9111-8C04A88042B2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DenemeProject/anasayfa-module/interactor/AnasayfaInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "tumYemekleriAl()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
